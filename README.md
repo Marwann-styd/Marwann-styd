@@ -14,6 +14,9 @@ Mahasiswa **Teknik Informatika** yang berfokus pada pengembangan aplikasi web *f
   Aplikasi desktop berbasis **Python GUI** untuk menganalisis format gambar RAW, kedalaman bit (*bit depth*), dan ukuran file keluaran.
 
 ---
+| Dashboard & Monitoring Kapasitas | Transaksi Mutasi Pallet |
+| :---: | :---: |
+| ![Dashboard WMS](https://raw.githubusercontent.com/Marwann-styd/LARAVEL-KULIYEHH/main/docs/screenshots/dashboard.png) | ![Transaksi WMS](https://raw.githubusercontent.com/Marwann-styd/LARAVEL-KULIYEHH/main/docs/screenshots/transaksi.png) |
 
 ### Tech Stack & Tools
 
