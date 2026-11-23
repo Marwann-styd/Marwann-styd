@@ -8,10 +8,6 @@ Mahasiswa **Teknik Informatika** yang berfokus pada pengembangan aplikasi web *f
 
 - **[Warehouse Finished Goods Monitoring System (WMS) — PT Indofood](https://github.com/Marwann-styd/LARAVEL-KULIYEHH)**  
   Sistem pemantauan kapasitas rak dan mutasi palet barang jadi (`IN`, `OUT`, `MOVE`) berbasis **Laravel & PostgreSQL** dengan isolasi multi-gudang, *row-level locking* (`lockForUpdate`), dan laporan cetak resmi.
-- **Kotak Aspirasi HMIF**  
-  Platform penyaluran aspirasi mahasiswa Himpunan Mahasiswa Teknik Informatika berbasis web.
-- **Desktop RAW Image Format & Bit-Depth Inspector**  
-  Aplikasi desktop berbasis **Python GUI** untuk menganalisis format gambar RAW, kedalaman bit (*bit depth*), dan ukuran file keluaran.
 
 ---
 | Dashboard & Monitoring Kapasitas | Transaksi Mutasi Pallet |
