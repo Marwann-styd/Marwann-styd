@@ -18,6 +18,8 @@ Mahasiswa **Teknik Informatika** yang berfokus pada pengembangan aplikasi web *f
 | :---: | :---: |
 | ![Dashboard WMS](https://raw.githubusercontent.com/Marwann-styd/LARAVEL-KULIYEHH/main/docs/screenshots/dashboard.png) | ![Transaksi WMS](https://raw.githubusercontent.com/Marwann-styd/LARAVEL-KULIYEHH/main/docs/screenshots/transaksi.png) |
 
+---
+
 ### Tech Stack & Tools
 
 - **Backend & Web:** PHP 8, Laravel, REST API, Bootstrap 5
