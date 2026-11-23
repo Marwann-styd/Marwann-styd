@@ -1,4 +1,4 @@
-## Halo, Saya Marwan Setyadi
+## Halo, Saya **Marwan Setyadi**
 
 Mahasiswa **Teknik Informatika** yang berfokus pada pengembangan aplikasi web *full-stack*, sistem informasi berbasis database relasional, pemrograman Python, serta infrastruktur jaringan komputer dan *private cloud*.
 
